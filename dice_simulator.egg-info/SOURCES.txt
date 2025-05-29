@@ -1,0 +1,15 @@
+setup.py
+dice_simulator/__init__.py
+dice_simulator/cli.py
+dice_simulator/dice.py
+dice_simulator/display.py
+dice_simulator/exceptions.py
+dice_simulator.egg-info/PKG-INFO
+dice_simulator.egg-info/SOURCES.txt
+dice_simulator.egg-info/dependency_links.txt
+dice_simulator.egg-info/entry_points.txt
+dice_simulator.egg-info/top_level.txt
+tests/__init__.py
+tests/test_cli.py
+tests/test_dice.py
+tests/test_display.py

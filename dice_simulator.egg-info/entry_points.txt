@@ -1,0 +1,2 @@
+[console_scripts]
+dice-simulator = dice_simulator.cli:run_cli

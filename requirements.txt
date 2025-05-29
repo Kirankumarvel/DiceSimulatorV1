@@ -1,0 +1,7 @@
+# For production
+# (No external dependencies in this simple project)
+
+# For development
+pytest>=6.0.0
+mypy>=0.900
+black>=21.0
