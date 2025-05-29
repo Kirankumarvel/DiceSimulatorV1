@@ -1,4 +1,4 @@
-# 🎲 Dice Simulator - Python Package
+# 🎲 Dice Simulator 
 
 ![Python Version](https://img.shields.io/badge/python-3.6%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
@@ -22,8 +22,8 @@ A customizable dice rolling simulator package with command-line interface and vi
 
 ### Recommended Installation (Development Mode)
 ```bash
-git clone https://github.com/yourusername/dice-simulator.git
-cd dice-simulator
+git clone https://github.com/Kirankumarvel/DiceSimulatorV1.git
+cd DiceSimulatorV1
 pip install -e .
 ```
 
